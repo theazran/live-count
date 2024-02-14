@@ -1,0 +1,19 @@
+{
+  "name": "live-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "theazran_",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "dotenv": "^10.0.0",
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
